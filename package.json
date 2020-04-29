@@ -1,0 +1,15 @@
+{
+  "name": "4_tareas",
+  "version": "1.0.0",
+  "description": "Aplicación de tareas por hacer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Soria",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.3.1"
+  }
+}
